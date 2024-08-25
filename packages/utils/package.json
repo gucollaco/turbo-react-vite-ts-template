@@ -1,9 +1,8 @@
 {
-  "name": "@repo/ui",
+  "name": "@repo/utils",
   "version": "0.0.0",
   "exports": {
-    "./footer": "./components/footer/index.tsx",
-    "./header": "./components/header/index.tsx"
+    "./number-helper": "./utils/number-helper.ts"
   },
   "license": "MIT",
   "scripts": {
